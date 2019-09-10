@@ -1,6 +1,6 @@
 <?php 
 require_once 'custom_post_type.php';
-// require_once 'meta_boxes.php';
+require_once 'custom_fields.php';
 require_once 'enqueue.php';
 // add_filter('use_block_editor_for_post', '__return_false', 10);
 
